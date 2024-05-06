@@ -1,3 +1,7 @@
+# About This App
+
+This app is a photo gallery that displays a provided list of images. The images are spread out in a grid and can be clicked to view at larger scale in a modal. In the modal, there is functionality to add meme-style text as an overlay on top of the image and a caption below the image. The images are also able to be clicked-through forward and backward through the modal.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
